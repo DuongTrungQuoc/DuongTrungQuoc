@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DuongTrungQuoc
+- 👋 Hi, I’m Quốc
 - 👀 I’m interested in Web design
 - 🌱 I’m currently learning JavaScript
 - 📫 My facebook: [Dương Trung Quốc ](https://www.facebook.com/profile.php?id=100009626887806)
