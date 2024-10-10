@@ -1,8 +1,8 @@
-<div align="center"><h2>👋 Hi, I’m Quốc</h2></div>
+<div align="center"><h2>👋 Hi, I’m Dương Trung Quốc</h2></div>
 
 - 👀 I’m interested in Web design
 - 🌱 I’m currently learning JavaScript
-- 📫 My facebook: [Dương Trung Quốc ](https://www.facebook.com/profile.php?id=100009626887806)
+- 📫 My facebook: [Click here](https://www.facebook.com/profile.php?id=100009626887806)
 
 <!---
 DuongTrungQuoc/DuongTrungQuoc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
