@@ -1,4 +1,4 @@
-<div align="center"><h2>👋 Hi, I’m Dương Trung Quốc</h2></div>
+<div align="center"><h1>👋 Hi, I’m Dương Trung Quốc</h1></div>
 
 - 👀 I’m interested in Web design
 - 🌱 I’m currently learning JavaScript
