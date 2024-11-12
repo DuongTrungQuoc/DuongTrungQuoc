@@ -13,3 +13,6 @@
   ![pk9r327's GitHub stats](https://github-readme-stats.vercel.app/api?username=DuongTrungQuoc)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuongTrungQuoc&langs_count=3)
 </div>
+
+- wow.js -> how to use
+- tải https://wowjs.uk/css/libs/animate.css và https://wowjs.uk/dist/wow.min.js
