@@ -4,7 +4,7 @@
 👀 I’m interested in Web design <br>
 🌱 I’m currently learning JavaScript <br>
 ✅ Vercel: [Click here](https://vercel.com/duongtrungquocs-projects) <br>
-
+✅ Uiverse.io: [Click here](https://uiverse.io/profile/DuongTrungQuoc/approved) <br>
 
 ### 📊 My Github stats
 <div align="center">
